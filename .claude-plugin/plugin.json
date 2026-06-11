@@ -1,0 +1,9 @@
+{
+  "name": "my-stock-team",
+  "version": "1.0.0",
+  "description": "한국 주식 리서치 에이전트 팀 — 펀더멘털·시장/기술·뉴스심리·리스크·검증 애널리스트 5종과 PPTX 리포트 생성 스킬, 전체 파이프라인 커맨드(/stock-report)를 제공합니다. 무료 공개 데이터(DART·FinanceDataReader·pykrx·웹서치) 기반 학습용이며 투자 권유가 아닙니다.",
+  "author": {
+    "name": "inkyu"
+  },
+  "keywords": ["stock", "research", "korea", "equity", "pptx", "analyst"]
+}

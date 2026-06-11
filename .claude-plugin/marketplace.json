@@ -1,0 +1,13 @@
+{
+  "name": "my-stock-team",
+  "owner": {
+    "name": "inkyu"
+  },
+  "plugins": [
+    {
+      "name": "my-stock-team",
+      "source": "./",
+      "description": "한국 주식 리서치 에이전트 팀(애널리스트 5종 + PPTX 리포트 스킬 + /stock-report 파이프라인). 무료 공개 데이터 기반 학습용 분석 도구입니다."
+    }
+  ]
+}
